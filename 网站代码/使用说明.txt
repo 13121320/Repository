@@ -1,1 +1,0 @@
-ebook文件夹内的内容部署在myEclipse上，数据库文件用sql server打开。
